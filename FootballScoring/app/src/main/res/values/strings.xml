@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Football Scoring</string>
+    <string name="team_a">Team A</string>
+    <string name="touchdown">Touchdown + 6P</string>
+    <string name="extra_point">Extra Point + 1P</string>
+    <string name="conversion">Conversion + 2P</string>
+    <string name="field_goal">Field Goal + 3P</string>
+    <string name="safety">Safety + 2P</string>
+    <string name="team_b">Team B</string>
+    <string name="reset">Reset</string>
+</resources>
